@@ -1,2 +1,1 @@
-# APPM-3310
-Matrix Methods and Applications
+# APPM 3310: Matrix Methods and Applications
